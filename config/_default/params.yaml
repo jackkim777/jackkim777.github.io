@@ -8,7 +8,7 @@
 appearance:
   theme_day: custom
   theme_night: custom
-  font: minimal
+  font: Cyberpunk
   font_size: L
 
 # SEO
@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: '전북대학교 김윤성'
+    description: '전북대학교 학생 김윤성'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -34,9 +34,11 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
-    show_logo: false
-    show_language: false
+    align: c
+    show_logo: true
+    logo:
+      filename: "media/icon.png"
+    show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: false
@@ -88,16 +90,20 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: ''
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
+
+params:
+  og_image: "media/icon.png"   
+  description: "YunSeong_Works" 
 
 extensions:
   cms:
@@ -105,3 +111,4 @@ extensions:
     local_backend: false
   academicons:
     enable: false
+    

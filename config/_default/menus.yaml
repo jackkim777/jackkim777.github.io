@@ -6,7 +6,44 @@
 main:
   - name: Home
     url: /
-    weight: 10
-  - name: Resumé
+    weight: 100
+
+  - name: profile
+    identifier: profile
+    url: profile
+    weight: 200
+  - name: About me
+    parent: profile
     url: about/
-    weight: 20
+    weight: 210
+  - name: Interests
+    parent: profile
+    url: interests/
+    weight: 220
+
+  - name: projects
+    identifier: projects
+    url: project/
+    weight: 300
+
+  - name: notice
+    identifier: notice
+    url: notice/
+    weight: 400
+  - name: news
+    parent: notice
+    url: notice/
+    weight: 410
+  - name: gallery
+    parent: notice
+    url: gallery
+    weight: 420 
+
+  - name: contact
+    url: contact/
+    weight: 500
+
+  - name: FAQ
+    url: faq/
+    weight: 600  
+    

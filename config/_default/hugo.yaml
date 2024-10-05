@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 전북대 김윤성 # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://jackkim777.github.io/' # Website URL
 description: "전북대학교 소속 김윤성의 포트폴리오 웹사이트입니다. 연구 및 프로젝트를 소개합니다."
 author: "Yun Seong"
 
