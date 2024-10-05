@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YunSeong Kim
+title: YunSeong Kim (金潤成)
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: 'Student'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Organizations/Affiliations
 #organizations:
