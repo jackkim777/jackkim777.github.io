@@ -2,35 +2,23 @@
 // https://hugoblox.com/hugo-themes/
 
 body {
-  background-color: rgb(247, 250, 252);
+  background-color: #f5f5dc; /* 아이보리 색 */
 }
 
-.article-container {
-  background-color: #fff;
-  border-radius: 15px;
-}
-
-.dark .article-container {
-  background-color: rgb(31, 39, 51);
-}
-
-// custom footer color
-.page-footer {
-  background-color: rgb(247, 250, 252);
-}
-
-.dark .page-footer {
-  background-color: rgb(26, 32, 44);
-}
-
-// more rounded cards and larger gap between cards
+.article-container,
+.page-footer,
 .card-simple {
-  margin-top: 1.8rem;
-  border-radius: 15px;
+  background-color: #f5f5dc; /* 아이보리 색 */
 }
 
+.dark body {
+  background-color: #2c3e50; /* 짙은 남색 */
+}
+
+.dark .article-container,
+.dark .page-footer,
 .dark .card-simple {
-  background: rgb(31, 39, 51);
+  background-color: #2c3e50; /* 짙은 남색 */
 }
 
 // no navbar shadow
