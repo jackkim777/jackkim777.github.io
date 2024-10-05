@@ -2,24 +2,20 @@
 name = "Starter Blog"
 
 [light]
-  # Primary
   primary = "#2962ff"
-
-  # Menu
-  menu_primary = "rgb(247, 250, 252)"
+  menu_primary = "#f5f5dc"          # 메뉴 배경을 아이보리로 설정
   menu_text = "#34495e"
   menu_text_active = "#2962ff"
   menu_title = "#2b2b2b"
-
-  # Home sections
-  home_section_odd = "rgb(247, 250, 252)"
-  home_section_even = "rgb(247, 250, 252)"
+  home_section_odd = "#f5f5dc"      # 홈 섹션 배경을 아이보리로 설정
+  home_section_even = "#f5f5dc"
 
 [dark]
   primary = "#bbdefb"
   link = "#bbdefb"
   link_hover = "#bbdefb"
-  background = "rgb(26, 32, 44)"
-  home_section_odd = "rgb(26, 32, 44)"
-  home_section_even = "rgb(26, 32, 44)"
-  menu_primary = "rgb(26, 32, 44)"
+  background = "#2c3e50"           # 다크 모드 배경을 짙은 남색으로 설정
+  home_section_odd = "#2c3e50"
+  home_section_even = "#2c3e50"
+  menu_primary = "#2c3e50"         # 메뉴 배경을 짙은 남색으로 설정
+
