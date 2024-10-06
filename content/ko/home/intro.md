@@ -18,7 +18,5 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
+안녕하세요! 제 홈페이지에 오신 것을 환영합니다. 저는 전북대학교에 재학중이며, 전자공학부를 전공하고있습니다.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
-
-Check out my [resumé](/about/) and portfolio below 😍

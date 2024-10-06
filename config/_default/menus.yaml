@@ -39,11 +39,15 @@ main:
     url: gallery
     weight: 420 
 
+  - name: Events
+    url: events/
+    weight: 500
+
   - name: contact
     url: contact/
-    weight: 500
+    weight: 600
 
   - name: FAQ
     url: faq/
-    weight: 600  
+    weight: 700  
     
