@@ -10,46 +10,47 @@ weight: 20
 
 content:
   slides:
-    - title: AI
-      content: 인간의 지능을 모방해 문제 해결, 학습, 패턴 인식 등의 작업을 자동으로 수행하는 기술
+    - title: Autonomous Vehicle
+      content: 자율적으로 주행하며 환경을 인식하고 의사 결정을 내리는 차량 기술
       align: center
       background:
         image:
-          filename: image1_ai.jpg
+          filename: 자율주행.jpg
           filters:
             brightness: 0.7
         position: right
         color: '#666'
-    - title: Computer Vision
-      content: 이미지를 분석하고 이해하여 객체 인식, 장면 해석, 동작 추적 등 시각적 데이터를 처리하는 AI 기술 분야
+    - title: SLAM
+      content: 동시에 위치 추정과 지도 작성을 수행하는 기술로, 로봇과 자율주행에서 중요한 역할
       align: left
       background:
         image:
-          filename: image2_cv.jpg
+          filename: SLAM.jpg
           filters:
             brightness: 0.7
         position: center
         color: '#555'
-    - title: Machine Learning
-      content: 데이터로부터 패턴을 학습하고 예측을 수행하도록 컴퓨터를 훈련시키는 AI 기술
+    - title: Deep Learning
+      content: 인공신경망을 활용해 대량의 데이터를 학습하고 예측하는 고도화된 AI 기술
       align: right
       background:
         image:
-          filename: image3_ml.jpg
+          filename: 딥러닝.jpg
           filters:
             brightness: 0.5
         position: center
         color: '#333'
-    - title: Development
-      content: 창의적인 아이디어를 기술적으로 구현하고, 소프트웨어와 시스템을 설계, 구축, 유지보수하는 과정
+    - title: Sensor Fusion
+      content: 여러 센서 데이터를 결합해 더 정확한 정보를 얻는 기술, 자율주행과 로봇 공학에서 중요함
       align: center
       background:
         image:
-          filename: image3_ml.jpg
+          filename: 센서퓨전.jpg
           filters:
             brightness: 0.5
         position: left
         color: '#333'
+
       link:
         icon: graduation-cap
         icon_pack: fas
