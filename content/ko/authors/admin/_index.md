@@ -68,8 +68,8 @@ social:
 #email: ""
 ---
  
-저는 전북대학교 전자공학부에 재학 중이며, 인공지능(AI) 분야, 특히 머신러닝과 컴퓨터 비전(Computer Vision, CV) 기술에 깊은 관심을 가지고 있습니다. 이미지 및 영상 데이터를 분석하고 이를 통해 새로운 가능성을 발견하는 컴퓨터 비전 분야의 매력에 빠져 있습니다.
+저는 전북대학교 전자공학부에 재학 중이며, 자율주행과 SLAM (Simultaneous Localization and Mapping) 기술에 큰 관심을 가지고 있습니다. 특히 2D SLAM, 3D SLAM, 센서 융합(Sensor Fusion), 그리고 Visual SLAM 분야에 열정을 가지고 있습니다.
 
-머신러닝 알고리즘을 적용하여 컴퓨터가 스스로 학습하고 발전하는 과정을 탐구하며, 이를 통해 다양한 문제를 해결할 수 있는 기술적 잠재력을 발견하고자 합니다. 앞으로도 이 분야에서 더 심도 있는 연구를 진행하고, 학문적 성취를 이루기 위해 대학원 진학을 계획하고 있으며, 동시에 인공지능 관련 개발 프로젝트도 활발히 진행할 예정입니다.
+SLAM 기술을 통해 로봇과 자율주행 차량이 복잡한 환경을 인식하고 정확한 위치를 파악할 수 있는 방법을 탐구하고 있으며, 이를 통해 다양한 문제를 해결할 수 있는 기술적 잠재력을 발견하고자 합니다. 앞으로도 이 분야에서 심도 있는 연구를 진행하며 학문적 성취를 이루기 위해 대학원 진학을 계획하고 있습니다. 동시에 자율주행 및 SLAM 관련 프로젝트 개발에도 적극적으로 참여하고자 합니다.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="포트폴리오" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} 를 pdf로 다운받아 확인하세요.
