@@ -1,11 +1,11 @@
-# [SeoHyeon Portpolio](https://imsh429.github.io/)
+# [YunSeong Portpolio](https://jackkim777.github.io/)
 
-[![Screenshot](preview.png)](https://imsh429.github.io/)
+[![Screenshot](preview.png)](https://jackkim777.github.io/)
 
-Welcome to the **personal portfolio of 신서현**, a junior developer currently studying computer and artificial intelligence at Jeonbuk National University. This website showcases my projects, including modifications to the CookieRun game, a cosmetics semantic search system, and recommendation systems. You can find more about my skills, experience, and projects in the portfolio section.
+Welcome to the **personal portfolio of 김윤성**, a developer specializing in autonomous driving technology and SLAM. Currently studying Electronic Engineering at Jeonbuk National University, I am deeply involved in research on advanced navigation techniques, including sensor fusion, GPS-independent localization, and 2D/3D SLAM. In the portfolio section, you can explore my projects and learn more about my skills and experience in these fields.
 
--  **Profile** : [**About Me**](https://imsh429.github.io/about/), [**Interests**](https://imsh429.github.io/interests/)
--  [**Projects**](https://imsh429.github.io/project/)
--  **notice** : [**News**](https://imsh429.github.io/notice/), [**Gallery**](https://imsh429.github.io/gallery/)
+-  **Profile** : [**About Me**](https://jackkim777.github.io/about/), [**Interests**](https://jackkim777.github.io/interests/)
+-  [**Projects**](https://jackkim777.github.io/project/)
+-  **notice** : [**News**](https://jackkim777.github.io/notice/), [**Gallery**](https://jackkim777.github.io/gallery/)
 
-- If you have any questions, or need any help, [**Contact**](https://imsh429.github.io/contact/) me or leave [**FAQ**](https://imsh429.github.io/faq/) messages
+- If you have any questions, or need any help, [**Contact**](https://jackkim777.github.io/contact/) me or leave [**FAQ**](https://jackkim777.github.io/faq/) messages
