@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Major in Computer Sciente Artificial Intelligence
+  - course: Major in Electronic Engineering
     institution: Jeonbuk National University
     year: 2019.03 - 2025.02
 #  - course: MEng in Artificial Intelligence
