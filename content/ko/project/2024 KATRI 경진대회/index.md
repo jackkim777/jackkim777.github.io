@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: 2024 KATRI 경진대회
 summary: Write about your project here...
 tags:
   - NLP

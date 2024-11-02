@@ -1,5 +1,5 @@
 ---
-title: Recommendation Systems
+title: 전북대 AI & ROBOTICS 학부연구생
 summary: Write about your project here...
 tags:
   - ML

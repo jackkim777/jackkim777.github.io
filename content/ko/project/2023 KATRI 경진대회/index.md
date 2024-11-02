@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: 2023 KATRI 경진대회
 summary: Write about your project here...
 tags:
   - CV
