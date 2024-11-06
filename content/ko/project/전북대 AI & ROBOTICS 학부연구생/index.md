@@ -6,5 +6,5 @@ tags:
   - Robotics
   - Sensor Fusion
 date: 2023-05-01
-image: lab.png
+image: /content/ko/project/전북대 AI & ROBOTICS 학부연구생/lab.png
 ---

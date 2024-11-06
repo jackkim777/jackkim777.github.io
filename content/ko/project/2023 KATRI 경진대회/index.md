@@ -4,5 +4,5 @@ tags:
   - Sensor Fusion
   - Computer Vision
 date: 2023-07-01
-image: katri2023.jpg
+image: /content/ko/project/2023 KATRI 경진대회/katri2023.jpg
 ---
