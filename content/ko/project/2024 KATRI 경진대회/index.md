@@ -1,8 +1,8 @@
 ---
-title: 2024 KATRI 경진대회
-summary: Write about your project here...
+summary: 2024년 부회장 및 인지팀 팀장으로 참여하여 자율주행 차선 인식 시스템을 개선하고 차량 제어를 개선함.
 tags:
-  - NLP
-date: 2022-01-01
-external_link: http://github.com
+  - Sensor Fusion
+  - Computer Vision
+date: 2024-07-01
+image: katri2024.jpg
 ---
