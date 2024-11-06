@@ -6,5 +6,4 @@ tags:
   - Computer Vision
   - Localization
 date: 2024-06-17
-image: /content/ko/project/전북대 캡스톤디자인 경진대회/capstone.jpg
 ---
