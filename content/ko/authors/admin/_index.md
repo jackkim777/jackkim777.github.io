@@ -21,9 +21,10 @@ status:
 bio: 자율주행 소프트웨어 개발
 
 interests:
-- Artificial Intelligence
-- Computer Vision
-- Development
+- Autonomous Driving
+- Deep Learning
+- SLAM (Simultaneous Localization and Mapping)
+- Sensor Fusion
 
 education:
   courses:

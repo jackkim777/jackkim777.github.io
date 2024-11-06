@@ -24,48 +24,62 @@ date_format: Jan 2006
 experience:
   - title: 프로그래밍 언어
     company: Programming Languages
-    #company_logo: org-gc
     date_start: '2020-03-01'
     date_end: ''
     description: |2-
-        사용가능한 프로그래밍 언어:
+        사용 가능한 프로그래밍 언어:
         
         * Python
         * C
         * C++
-        * Java
+        * MATLAB
 
-  - title: 웹 기술
-    company: Web Technologies
-    #company_logo: org-gc
-    date_start: '2020-03-01'
+  - title: 자율주행 기술
+    company: Autonomous Driving Technologies
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        사용가능한 웹 기술:
-
-  - title: 데이터베이스
-    company: Databases
-    #company_logo: org-gc
-    date_start: '2020-03-01'
-    date_end: ''
-    description: |2-
-        사용가능한 데이터베이스 시스템:
+        자율주행 시스템 관련 기술:
         
-  - title: 도구 및 기술
-    company: Tools & Technologies
-    #company_logo: org-gc
-    date_start: '2020-03-01'
-    date_end: ''
-    description: |2-
-        버전 관리 시스템, 개발 도구 등:
+        * SLAM (Simultaneous Localization and Mapping)
+        * Sensor Fusion
+        * GPS-independent navigation
+        * Perception and Object Detection
 
-  - title: 프레임워크
-    company: Frameworks
-    #company_logo: org-gc
+  - title: 인공지능 및 딥러닝
+    company: AI and Deep Learning
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        딥러닝 및 인공지능 관련 프레임워크 및 라이브러리:
+        
+        * TensorFlow
+        * PyTorch
+        * OpenCV
+        * Scikit-Learn
+
+  - title: 데이터 처리 및 시각화 도구
+    company: Data Processing & Visualization Tools
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        데이터 처리 및 시각화 도구:
+        
+        * Pandas
+        * NumPy
+        * Matplotlib
+        * ROS (Robot Operating System)
+
+  - title: 버전 관리 및 협업 도구
+    company: Version Control & Collaboration Tools
     date_start: '2020-03-01'
     date_end: ''
     description: |2-
-        사용가능한 웹 또는 소프트웨어 프레임워크:
+        코드 관리 및 협업 도구:
+        
+        * Git
+        * GitHub
+        * Jupyter Notebooks
 
 design:
   columns: '1'
