@@ -5,5 +5,4 @@ tags:
   - IoT
   - Deep Learning
 date: 2019-12-18
-external_link: http://github.com
 ---
