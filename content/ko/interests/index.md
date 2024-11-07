@@ -27,7 +27,7 @@ sections:
           icon_pack: fas
         - name: Sensor Fusion
           # description: 10%
-          icon: fa fa-mixcloud
+          icon: fa fa-cubes
           icon_pack: fas
         - name: Robotics
           # description: 10%
