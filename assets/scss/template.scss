@@ -1,24 +1,23 @@
 // Starter Blog Template
 // https://hugoblox.com/hugo-themes/
-
 body {
-  background-color: #f5f5dc; /* 아이보리 색 */
+  background-color: #efefdd; /* 아이보리 색 */
 }
 
 .article-container,
 .page-footer,
 .card-simple {
-  background-color: #bebe8f; /* 아이보리 색 */
+  background-color: #f8f8db; /* 아이보리 색 */
 }
 
 .dark body {
-  background-color: #2b435b; /* 짙은 남색 */
+  background-color: #0f1f30; /* 짙은 남색 */
 }
 
 .dark .article-container,
 .dark .page-footer,
 .dark .card-simple {
-  background-color: #2c3e50; /* 짙은 남색 */
+  background-color: #0e1924; /* 짙은 남색 */
 }
 
 // no navbar shadow
@@ -102,4 +101,32 @@ ul.network-icon .big-icon {
 
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
+}
+
+/* 라이트 모드에서 버튼 hover */
+.button:hover {
+  color: #2962ff;  /* 커스텀 라이트 모드의 활성화된 텍스트 색상 */
+  background-color: #f0f0f0;  /* 호버 시 라이트 모드 배경색 */
+  transition: background-color 0.3s ease, color 0.3s ease;  /* 부드러운 전환 */
+}
+
+/* 다크 모드에서 버튼 hover */
+.dark .button:hover {
+  color: #bbdefb;  /* 다크 모드의 링크 hover 색상 */
+  background-color: #1f2933;  /* 다크 모드 배경색 */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* 라이트 모드에서 네비게이션 메뉴 hover */
+.navbar a:hover {
+  color: #2962ff;  /* 라이트 모드의 메뉴 텍스트 활성화 색상 */
+  background-color: #f0f0f0;  /* 라이트 모드의 배경색 */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* 다크 모드에서 네비게이션 메뉴 hover */
+.dark .navbar a:hover {
+  color: #bbdefb;  /* 다크 모드에서 메뉴 텍스트 hover 색상 */
+  background-color: #1f2933;  /* 다크 모드 배경색 */
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
