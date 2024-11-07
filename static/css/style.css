@@ -1,10 +1,17 @@
-/* 첫 번째 열에 있는 버튼만 왼쪽에 배치 */
-.portfolio-buttons .button-all {
+/* portfolio-buttons 컨테이너에서 두 열로 나누기 */
+.portfolio-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  
+  /* 첫 번째 열에는 'ALL' 버튼만 배치 */
+  .portfolio-buttons .button-column:first-child {
     grid-column: 1;
   }
   
-  /* 나머지 버튼들을 2열에 배치 */
-  .portfolio-buttons .button {
+  /* 두 번째 열에는 나머지 버튼들 배치 */
+  .portfolio-buttons .button-column:last-child {
     grid-column: 2;
   }
   
