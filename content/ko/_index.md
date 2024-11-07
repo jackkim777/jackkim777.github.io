@@ -113,14 +113,16 @@ sections:
       view: custom_card
       flip_alt_rows: false
       spacing: { padding: [30, 0, 30, 0] }
-    - name: <div class="portfolio-buttons">
-              <button class="button button-all">ALL</button>
-              <button class="button">창의적 공학 설계 입문</button>
-              <button class="button">2023 KATRI 대회</button>
-              <button class="button">2024 KATRI 대회</button>
-              <button class="button">학부연구생</button>
-              <button class="button">캠스톤 디자인</button>
-            </div>
+      buttons_html: |
+        <div class="portfolio-buttons">
+          <button class="button button-all">ALL</button>
+          <button class="button">창의적 공학 설계 입문</button>
+          <button class="button">2023 KATRI 대회</button>
+          <button class="button">2024 KATRI 대회</button>
+          <button class="button">학부연구생</button>
+          <button class="button">캠스톤 디자인</button>
+        </div>
+
 
   - block: collection
     content:
