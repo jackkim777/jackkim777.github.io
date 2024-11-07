@@ -7,16 +7,16 @@ type: landing
 sections: 
   - block: features
     content:
-      title: <span style="font-size:70%">신서현의 홈페이지에 오신 것을 환영합니다.</span>
-      text: <br><span style="font-size:125%">저는 전북대학교 컴퓨터인공지능학부에 재학 중이며, 인공지능(AI) 분야, 특히 머신러닝과 컴퓨터 비전에 많은 관심을 가지고 있습니다. 앞으로 인공지능 분야에서 깊이 있는 연구를 이어가며 성과를 이루는 개발자가 되고 싶습니다.</span> <br><br>
-        {{% cta cta_link="./about/" cta_text="About me →" %}}
+      title: <span style="font-size:70%">김윤성의 홈페이지에 오신 것을 환영합니다.</span>
+      text: <br><span style="font-size:125%">저는 전북대학교 전자공학부에 재학 중이며, 자율주행과 SLAM (Simultaneous Localization and Mapping) 기술에 큰 관심을 가지고 있습니다. 특히 2D SLAM, 3D SLAM, 센서 융합(Sensor Fusion), 그리고 Visual SLAM 분야에 열정을 가지고 있습니다.</span> <br><br>
+      {{% cta cta_link="./about/" cta_text="About me →" %}}
 
 
   - block: slider
     content:
       slides:
-      - title: <span style="font-size:70%">AI</span>
-        content: <span style="font-size:60%">인간의 지능을 모방해 문제 해결, 학습, 패턴 인식 등의 작업을 자동으로 수행하는 기술</span>
+      - title: <span style="font-size:70%">Autonomous Car</span>
+        content: <span style="font-size:60%">자율 주행 차량은 주변 환경을 인식하고, 경로를 계획하며 스스로 운행하는 첨단 기술로 다양한 센서를 활용</span>
         align: center
         background:
           image:
@@ -26,38 +26,39 @@ sections:
           position: right
           color: '#666'
 
-      - title: <span style="font-size:70%">Computer Vision</span>
-        content: <span style="font-size:60%">이미지를 분석하고 이해하여 객체 인식, 장면 해석, 동작 추적 등 시각적 데이터를 처리하는 AI 기술 분야</span>
+      - title: <span style="font-size:70%">SLAM</span>
+        content: <span style="font-size:60%">동시에 로봇의 위치를 추정하고 환경을 매핑하는 기술로, 자율 주행 및 로봇 내비게이션에 핵심적인 역할을 수행</span>
         align: left
         background:
           image:
-            filename: image2_cv.jpg
+            filename: image3_ml.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
 
-      - title: <span style="font-size:70%">Machine Learning</span>
-        content: <span style="font-size:70%">데이터로부터 패턴을 학습하고 예측을 수행하도록 컴퓨터를 훈련시키는 AI 기술</span>
+      - title: <span style="font-size:70%">Deep Learning</span>
+        content: <span style="font-size:70%">대량의 데이터를 활용하여 복잡한 패턴을 학습하고 예측을 수행하는 AI 기술, 인공신경망을 기반으로 한다</span>
         align: right
         background:
           image:
-            filename: image3_ml.jpg
+            filename: image2_cv.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
 
-      - title: <span style="font-size:70%">Development</span>
-        content: <span style="font-size:70%">창의적인 아이디어를 기술적으로 구현하고, 소프트웨어와 시스템을 설계, 구축, 유지보수하는 과정</span>
+      - title: <span style="font-size:70%">Sensor Fusion</span>
+        content: <span style="font-size:70%">다양한 센서의 데이터를 통합하여 정확하고 신뢰성 높은 정보를 제공, 자율 주행 및 로봇 시스템에서 중요한 역할을 수행</span>
         align: center
         background:
           image:
-            filename: development.jpg
+            filename: image4_tt.jpg
             filters:
               brightness: 0.5
           position: left
           color: '#333'
+
 
       - title: <span style="font-size:70%">Contact</span>
         content: <span style="font-size:70%">How to contact me...</span>
@@ -96,12 +97,16 @@ sections:
         - name: ALL
           tag: '*'
           type: project
-        - name: 쿠키런 변형 게임
-          tag: CR
-        - name: 홈페이지 만들기
+        - name: 창의적 공학 설계 입문
+          tag: IOT
+        - name: 2023 KATRI 대회
+          tag: KK
+        - name: 2024 KATRI 대회
           tag: HMP
-        - name: 맛집 탐색 서비스
+        - name: 학부연구생
           tag: MJ  
+        - name: 캠스톤 디자인
+          tag: SF
     design:
       columns: '1'
       view: custom_card

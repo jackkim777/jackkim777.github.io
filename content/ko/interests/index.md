@@ -9,10 +9,10 @@ sections:
       subtitle: I am interested in...
     # text: 
       items:
-        - name: CAR
+        - name: 
           # description: 90%
           icon: brain
-          icon_pack: <i class="fa fa-car" aria-hidden="true"></i>
+          icon_pack: fas
         - name: Machine Learning
           # description: 100%
           icon: robot
