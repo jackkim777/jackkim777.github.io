@@ -103,7 +103,7 @@ sections:
         - name: 2023 KATRI 대회
           tag: 2023katri
         - name: 2024 KATRI 대회
-          tag: '*'
+          tag: 2024katri
         - name: 학부연구생
           tag: MJ  
         - name: 캠스톤 디자인
