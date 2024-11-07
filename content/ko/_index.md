@@ -132,22 +132,4 @@ sections:
       columns: '2'
     advanced:
       css_style: "text-align: center;"
-
-  - block: collection
-    content:
-      title: Upcoming Events
-      subtitle:
-      text:
-      count: 3
-      filters:
-        folders:
-          - events
-      offset: 0
-      order: desc
-      page_type: events
-    design:
-      view: masonry
-      columns: '2'
-    advanced:
-      css_style: "text-align: center;"
 ---

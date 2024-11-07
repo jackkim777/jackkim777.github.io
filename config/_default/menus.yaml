@@ -39,10 +39,6 @@ main:
     url: gallery
     weight: 420 
 
-  - name: Events
-    url: events/
-    weight: 500
-
   - name: contact
     url: contact/
     weight: 600
