@@ -11,7 +11,7 @@ sections:
       items:
         - name: 
           # description: 90%
-          icon: brain
+          icon: fa fa-car
           icon_pack: fas
         - name: Machine Learning
           # description: 100%

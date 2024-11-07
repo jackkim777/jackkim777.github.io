@@ -101,9 +101,9 @@ sections:
         - name: 창의적 공학 설계 입문
           tag: IOT
         - name: 2023 KATRI 대회
-          tag: KK
+          tag: 2023katri
         - name: 2024 KATRI 대회
-          tag: HMP
+          tag: 2024katri
         - name: 학부연구생
           tag: MJ  
         - name: 캠스톤 디자인
