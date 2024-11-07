@@ -9,29 +9,29 @@ sections:
       subtitle: I am interested in...
     # text: 
       items:
-        - name: 
+        - name: Autonomous Car
           # description: 90%
           icon: fa fa-car
           icon_pack: fas
-        - name: Machine Learning
+        - name: SLAM
           # description: 100%
-          icon: robot
+          icon: fa-location-arrow
           icon_pack: fas
         - name: Computer Vision
           # description: 10%
           icon: eye
           icon_pack: fas
-        - name: Development
-          # description: 10%
-          icon: code
-          icon_pack: fas
-        - name: Data Science
+        - name: Deep Learning
           # description: 10%
           icon: magnifying-glass-chart
           icon_pack: fas
-        - name: Natural Language Processing
+        - name: Sensor Fusion
           # description: 10%
-          icon: language
+          icon: fa-mixcloud
+          icon_pack: fas
+        - name: Robotics
+          # description: 10%
+          icon: robot
           icon_pack: fas
 
   - block: slider
