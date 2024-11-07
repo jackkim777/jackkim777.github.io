@@ -15,7 +15,7 @@ content:
       align: center
       background:
         image:
-          filename: 자율주행.jpg
+          filename: image1_ai.jpg
           filters:
             brightness: 0.7
         position: right
@@ -25,7 +25,7 @@ content:
       align: left
       background:
         image:
-          filename: SLAM.jpg
+          filename: image3_ml.jpg
           filters:
             brightness: 0.7
         position: center
@@ -35,7 +35,7 @@ content:
       align: right
       background:
         image:
-          filename: 딥러닝.jpg
+          filename: image2_cv.jpg
           filters:
             brightness: 0.5
         position: center
@@ -45,7 +45,7 @@ content:
       align: center
       background:
         image:
-          filename: 센서퓨전.jpg
+          filename: image4_tt.jpg
           filters:
             brightness: 0.5
         position: left
