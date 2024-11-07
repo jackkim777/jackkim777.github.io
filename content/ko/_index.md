@@ -17,7 +17,6 @@ sections:
     content:
       slides:
       - title: <span style="font-size:70%">Autonomous Car</span>
-        content: <span style="font-size:60%">자율 주행 차량은 주변 환경을 인식하고, 경로를 계획하며 스스로 운행하는 첨단 기술로 다양한 센서를 활용</span>
         align: center
         background:
           image:
@@ -28,7 +27,6 @@ sections:
           color: '#666'
 
       - title: <span style="font-size:70%">SLAM</span>
-        content: <span style="font-size:60%">동시에 로봇의 위치를 추정하고 환경을 매핑하는 기술로, 자율 주행 및 로봇 내비게이션에 핵심적인 역할을 수행</span>
         align: left
         background:
           image:
@@ -39,7 +37,6 @@ sections:
           color: '#555'
 
       - title: <span style="font-size:70%">Deep Learning</span>
-        content: <span style="font-size:70%">대량의 데이터를 활용하여 복잡한 패턴을 학습하고 예측을 수행하는 AI 기술, 인공신경망을 기반으로 한다</span>
         align: right
         background:
           image:
@@ -50,7 +47,6 @@ sections:
           color: '#333'
 
       - title: <span style="font-size:70%">Sensor Fusion</span>
-        content: <span style="font-size:70%">다양한 센서의 데이터를 통합하여 정확하고 신뢰성 높은 정보를 제공, 자율 주행 및 로봇 시스템에서 중요한 역할을 수행</span>
         align: center
         background:
           image:
@@ -62,7 +58,6 @@ sections:
 
 
       - title: <span style="font-size:70%">Contact</span>
-        content: <span style="font-size:70%">How to contact me...</span>
         align: center
         background:
           image:
