@@ -1,0 +1,10 @@
+/* 첫 번째 열에 있는 버튼만 왼쪽에 배치 */
+.portfolio-buttons .button-all {
+    grid-column: 1;
+  }
+  
+  /* 나머지 버튼들을 2열에 배치 */
+  .portfolio-buttons .button {
+    grid-column: 2;
+  }
+  
