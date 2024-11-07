@@ -42,8 +42,3 @@ main:
   - name: contact
     url: contact/
     weight: 600
-
-  - name: FAQ
-    url: faq/
-    weight: 700  
-    

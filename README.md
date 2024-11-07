@@ -7,5 +7,3 @@ Welcome to the **personal portfolio of 김윤성**, a developer specializing in 
 -  **Profile** : [**About Me**](https://jackkim777.github.io/about/), [**Interests**](https://jackkim777.github.io/interests/)
 -  [**Projects**](https://jackkim777.github.io/project/)
 -  **notice** : [**News**](https://jackkim777.github.io/notice/), [**Gallery**](https://jackkim777.github.io/gallery/)
-
-- If you have any questions, or need any help, [**Contact**](https://jackkim777.github.io/contact/) me or leave [**FAQ**](https://jackkim777.github.io/faq/) messages
