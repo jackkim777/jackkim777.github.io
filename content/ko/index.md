@@ -7,9 +7,10 @@ type: landing
 sections: 
   - block: features
     content:
-      title: <span style="font-size:70%">김윤성의 홈페이지에 오신 것을 환영합니다.</span>
-      text: <br><span style="font-size:125%">저는 전북대학교 전자공학부에 재학 중이며, 자율주행과 SLAM (Simultaneous Localization and Mapping) 기술에 큰 관심을 가지고 있습니다. 특히 2D SLAM, 3D SLAM, 센서 융합(Sensor Fusion), 그리고 Visual SLAM 분야에 열정을 가지고 있습니다.</span> <br><br>
-      {{% cta cta_link="./about/" cta_text="About me →" %}}
+      title: "<span style=\"font-size:70%\">김윤성의 홈페이지에 오신 것을 환영합니다.</span>"
+      text: >
+        <br><span style="font-size:125%">저는 전북대학교 전자공학부에 재학 중이며, 자율주행과 SLAM (Simultaneous Localization and Mapping) 기술에 큰 관심을 가지고 있습니다. 특히 2D SLAM, 3D SLAM, 센서 융합(Sensor Fusion), 그리고 Visual SLAM 분야에 열정을 가지고 있습니다.</span> <br><br>
+        {{% cta cta_link="./about/" cta_text="About me →" %}}
 
 
   - block: slider
