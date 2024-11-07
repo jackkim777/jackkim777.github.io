@@ -107,7 +107,7 @@ sections:
         - name: 학부연구생
           tag: MJ  
         - name: 캠스톤 디자인
-          tag: SF
+          tag: HMP
     design:
       columns: '1'
       view: custom_card
