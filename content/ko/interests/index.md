@@ -15,7 +15,7 @@ sections:
           icon_pack: fas
         - name: SLAM
           # description: 100%
-          icon: fa-location-arrow
+          icon: fa fa-location-arrow
           icon_pack: fas
         - name: Computer Vision
           # description: 10%
@@ -27,7 +27,7 @@ sections:
           icon_pack: fas
         - name: Sensor Fusion
           # description: 10%
-          icon: fa-mixcloud
+          icon: fa fa-mixcloud
           icon_pack: fas
         - name: Robotics
           # description: 10%
